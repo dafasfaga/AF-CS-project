@@ -84,5 +84,26 @@ height: 350px;
   margin-right: 50px;
   
 }
+
+a {
+  border-style: solid;
+  border-color: black; 
+  border-radius: 3px;
+  padding: 2px;
+  text-decoration: none;
+  background-color: yellowgreen;
+  color: black;
+}
+
+.buttons {
+  text-align: right;
+  height: 40px;
+  margin: 20px;
+}
+
+.back {
+  margin-right: 5px;
+}
+
 /*make a button that goes to the next page in he bottom right corner */
 
